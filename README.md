@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Graph-Based Real-Time Fraud & Anomaly Detection in E-Commerce
 ## Using Dynamic User–Order Networks
 
